@@ -28,7 +28,7 @@ const RANDOM_QUOTES = [
 		author: "Kur'an, 17:110"
 	},
 	{
-		text: "Kim bir kötülük yaparsa veya kendisine haksızlık eder de sonra Allah'tan bağışlanma dilerse, Allah'ı çok bağışlayıcı, çok merhametli bulur",
+		text: "Kim bir kötülük yaparsa veya kendisine haksızlık eder de sonra Allah'tan bağışlanma dilerse, Allah'ı çok bağışlayıcı, çok merhametli bulur.",
 		author: "Kur'an, 4:110"
 	},
 	{
