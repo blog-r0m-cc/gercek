@@ -59,4 +59,48 @@ const RANDOM_QUOTES = [
 		text: "Aldatıp oyaladı o çokluk yarışı sizleri.",
 		author: "Kur'an, 102:1"
 	},
+	{
+		text: "Hoşlarına gitmeyen şeyleri Allah'a mal ediyorlar. En güzel şeylerin de kendilerine ait olduğunu söylüyorlar. Şüphesiz, onlara ateş vardır ve onlar ateşte terk edileceklerdir.",
+		author: "Kur'an, 16:62"
+	},
+	{
+		text: "Kendisine Rabbinin ayetleri hatırlatıldıktan sonra onlardan yüz çevirenden daha zalim kim olabilir ki! Şüphesiz ki biz suçlulardan intikam alıcılarız.",
+		author: "Kur'an, 32:22"
+	},
+	{
+		text: "Şimdi siz bu sözü mü tuhaf buluyorsunuz! Gülüyorsunuz; ağlamıyorsunuz. Siz oyalanıyorsunuz!",
+		author: "Kur'an, 53:59-61"
+	},
+	{
+		text: "Allah sizin tövbenizi kabul etmek istiyor; şehvetlerine uyanlar ise büyük bir sapkınlığa sapmanızı (tamamen yoldan çıkmanızı) istiyorlar.",
+		author: "Kur'an, 4:27"
+	},
+	{
+		text: "Onlara verdiğimiz servet ve çocuklar ile kendilerine iyilik noktasında yardım ettiğimizi mi sanıyorlar! Hayır! Onlar (işin) farkına varamıyorlar.",
+		author: "Kur'an, 23:55-56"
+	},
+	{
+		text: "Yeryüzünde bulunanların çoğuna uyacak olursan, seni Allah'ın yolundan saptırırlar. Onlar, zandan başka bir şeye uymuyorlar ve onlar yalandan başka bir şey söylemiyorlar.",
+		author: "Kur'an, 6:116"
+	},
+	{
+		text: "Ne oluyor size? Nasıl (böyle) hükmediyorsunuz? Yoksa bir kitabınız var da onu mu okuyup duruyorsunuz? Ve içinde her dilediğinizi bulabiliyorsunuz?",
+		author: "Kur'an, 68:36-38"
+	},
+	{
+		text: "Bundan (Kur'an'dan) sonra artık hangi söze inanacaklar ki!",
+		author: "Kur'an, 77:50"
+	},
+	{
+		text: "(…) Akıl edesiniz diye ayetleri size elbette açıkladık.",
+		author: "Kur'an, 57:17"
+	},
+	{
+		text: "Bu, hikmet sahibi, her şeyden haberdar olan tarafından, ayetleri sağlamlaştırılmış ve ayrıntılı olarak açıklanmış bir kitaptır.",
+		author: "Kur'an, 11:1"
+	},
+	{
+		text: "De ki: \"Kendisinden yüz çevirip durduğunuz bu (Kur'an), büyük bir haberdir.\"",
+		author: "Kur'an, 38:67-68"
+	}
 ]
