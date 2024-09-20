@@ -102,5 +102,9 @@ const RANDOM_QUOTES = [
 	{
 		text: "De ki: \"Kendisinden yüz çevirip durduğunuz bu (Kur'an), büyük bir haberdir.\"",
 		author: "Kur'an, 38:67-68"
+	},
+	{
+		text: "Göklerde ve yerde kim varsa gölgeleriyle birlikte ister istemez ve sabah-akşam Allah'a secde ederler.",
+		author: "Kur'an, 13:15"
 	}
 ]
