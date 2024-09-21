@@ -106,5 +106,9 @@ const RANDOM_QUOTES = [
 	{
 		text: "Göklerde ve yerde kim varsa gölgeleriyle birlikte ister istemez ve sabah-akşam Allah'a secde ederler.",
 		author: "Kur'an, 13:15"
-	}
+	},
+    {
+        text: "Onlara ufukta ve kendi içlerinde ayetlerimizi göstereceğiz, ta ki bunun (Kur’an’ın) gerçek olduğu onlar için iyice belli olana kadar.",
+        author: "Kur'an, 41:53"
+    }
 ]
