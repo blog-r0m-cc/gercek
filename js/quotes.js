@@ -110,5 +110,9 @@ const RANDOM_QUOTES = [
     {
         text: "Onlara ufukta ve kendi içlerinde ayetlerimizi göstereceğiz, ta ki bunun (Kur’an’ın) gerçek olduğu onlar için iyice belli olana kadar.",
         author: "Kur'an, 41:53"
+    },
+    {
+        text: "\"Ben sizden herhangi bir ücret istemiyorum; o, sizin olsun. Benim ücretim yalnızca Allah'a aittir. O her şeye tanıktır.\"",
+        author: "Kur'an, 34:47"
     }
 ]
