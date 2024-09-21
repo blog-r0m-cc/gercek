@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://din.blog.r0m.cc/sitemap.xml
+Sitemap: https://gercek.blog.r0m.cc/sitemap.xml
