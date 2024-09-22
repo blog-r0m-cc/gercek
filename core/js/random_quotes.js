@@ -61,5 +61,5 @@
 
 	document.querySelector("#random-quote").style.display = "block";
 
-	setCookie(lastIndexCookie, randIndex);
+	setCookie(lastIndexCookie, randIndex, 60);
 })();
