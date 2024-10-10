@@ -1,4 +1,4 @@
-const RANDOM_QUOTES = [
+window.RANDOM_QUOTES = [
 	{
 		text: "Bazen doğruyu görebilmek için yanlışa düşmek gerekir.",
 		author: "Ege Bilecen"
@@ -20,11 +20,11 @@ const RANDOM_QUOTES = [
 		author: "Kur'an, 41:34"
 	},
 	{
-		text: "Hayır! Şüphesiz ki insan, kendini zengin (ihtiyaçsız) gördüğü için azar.",
+		text: "Hayır! Şüphesiz ki insan, kendini ihtiyaçsız gördüğü için azar.",
 		author: "Kur'an, 96:6-7"
 	},
 	{
-		text: "Ne oluyor size? Nasıl (böyle) hükmediyorsunuz? Yoksa bir kitabınız var da onu mu okuyup duruyorsunuz? Ve içinde her dilediğinizi bulabiliyorsunuz?",
+		text: "Ne oluyor size? Nasıl böyle hükmediyorsunuz? Yoksa bir kitabınız var da onu mu okuyup duruyorsunuz? Ve içinde her dilediğinizi bulabiliyorsunuz?",
 		author: "Kur'an, 68:36-38"
 	},
 	{
