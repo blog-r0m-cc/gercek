@@ -34,5 +34,9 @@ window.RANDOM_QUOTES = [
 	{
 		text: "Sen yola çık, yolun kalanı sana gözükür.",
 		author: "Anonim"
+	},
+	{
+		text: "İyilikle kötülük bir değildir. Kötülüğü iyilikle sav. Bir de bakmışsın ki seninle arasında düşmanlık olan kişi, en iyi dostun oluverir.",
+		author: "Kur'an, 41:34"
 	}
 ]
